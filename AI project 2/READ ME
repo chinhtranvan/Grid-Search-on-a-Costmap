@@ -5,9 +5,10 @@ The comments should usually include at least:
 
 
 -------------------------------------------------------------------------------------------------
+## This code made by Chinh Tran
 I run this code by using jetbrains pycharm community edition 2018.2.2
 In my zipper folder
-+  Matlab : Support code and grayimage ( the black dot in image is obstacle)
+ + Matlab : Support code and grayimage ( the black dot in image is obstacle)
  + Python: Breadth first search , Depth First search, A* search with Euclidean , Manhattan and zero heuristic, Fringe search
  +Result : path of each method in figure
 To use my code, you have to combine 2 languages Matlab and python.
