@@ -22,7 +22,11 @@ cost(i, j) = 1/val(i, j).
 
 Result
 BFS METHOD
+
+
 ![breadth first search](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/figure%20of%20BFS.PNG)
+
+
 
 ![Depth first search](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/figure%20of%20DFS.PNG)
 
