@@ -1,8 +1,0 @@
-ImgToGrid('myGray.png', 'grid.txt')
-ShowGrid('grid.txt')
-ShowGridAndPath('grid.txt', 'path of bfs method.txt')
-%ShowGridAndPath('grid.txt', 'path of dfs method.txt')
-%ShowGridAndPath('grid.txt', 'path of astar method with euclidean heuristic.txt')
-%ShowGridAndPath('grid.txt', 'path of astar method with Manhattan heuristic.txt')
-%ShowGridAndPath('grid.txt', 'path of astar method with zero heuristic.txt')
-%ShowGridAndPath('grid.txt', 'path of fringe search method with Manhattan heuristic.txt')
