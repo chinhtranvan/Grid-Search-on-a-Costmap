@@ -20,8 +20,8 @@ A* should take the cell-traversal costs into account so that it can find the sho
 The cost of passing through a cell (i, j) should be computed as
 cost(i, j) = 1/val(i, j).
 
-
 Result
+BFS METHOD
 ![breadth first search](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/figure%20of%20BFS.PNG)
 
 ![Depth first search](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/figure%20of%20DFS.PNG)
