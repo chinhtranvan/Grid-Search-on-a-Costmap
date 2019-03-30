@@ -28,6 +28,31 @@ BFS METHOD
 ![breadth first search](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/figure%20of%20BFS.PNG)
 
 
+DFS METHOD
+
 
 ![Depth first search](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/figure%20of%20DFS.PNG)
 
+
+A* WITH ZERO HEURISTIC
+
+
+![A STAR](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/Figure%20of%20zero%20astar.PNG)
+
+
+A* WITH MANHATTAN HEURISTIC
+
+
+![A STAR](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/Figure%20of%20Mahhatan%20astar.PNG)
+
+
+A* WITH EUCLIDEAN HEURISTIC
+
+
+![A STAR](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/Figure%20of%20Euclidean%20astar.PNG)
+
+
+FRINGE SEARCH WITH MANHATTAN HEURISTIC
+
+
+![FRINGE SEARCH](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/Figure%20of%20Mahhatan%20fringe.PNG)
