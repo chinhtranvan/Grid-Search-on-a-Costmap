@@ -21,6 +21,7 @@ The cost of passing through a cell (i, j) should be computed as
 cost(i, j) = 1/val(i, j).
 
 Result
+
 BFS METHOD
 
 
