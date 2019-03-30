@@ -17,3 +17,4 @@ UP, DOWN (no diagonal moves allowed).
 Note that DFS and BFS treat the cells with value (> 0) as free cells since these methods just focus on
 computing a path. Essentially, these methods ignore the cost.
 A* should take the cell-traversal costs into account so that it can find the shortest path to the goal.
+![grayscale image](https://github.com/chinhtranvan/Grid-Search-on-a-Costmap/blob/master/AI%20grid%20search/result/Figure%20of%20Euclidean%20astar.PNG)
